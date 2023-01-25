@@ -1,0 +1,15 @@
+.editorconfig
+.gitattributes
+.github
+.gitignore
+.gitlab-ci.yml
+.idea
+.vscode
+.pytest_cache
+.pre-commit-config.yaml
+.readthedocs.yml
+.travis.yml
+venv
+__pycache__
+README.md
+docker-compose.yml
